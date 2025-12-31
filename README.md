@@ -14,11 +14,7 @@ The **Training Extra** project contains system prompts designed to extend the AI
 * Contain the **full, uncompressed content**.
 * Serve as reference versions.
 
-You're right! OC is the strongest. Here’s the corrected version:
-
 ---
-
-Perfect! Here's the corrected version reflecting that **OC targets ~60%** and **XC targets ~80%**:
 
 ### Optimized Versions
 
