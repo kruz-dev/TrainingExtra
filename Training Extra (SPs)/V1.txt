@@ -1,0 +1,4 @@
+CPU_Database = {
+  "i3-8100": {"cores": 4, "threads": 4, "freq": "3.6 GHz"},
+  "i5-10400": {"cores": 6, "threads": 12, "freq": "2.9 GHz"}
+}
